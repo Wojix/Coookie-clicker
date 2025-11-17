@@ -1,2 +1,2 @@
 # Coookie-clicker
-its Coookie cilcker. not Cookie clicker
+re-create of [cookie clicker](https://cookieclicker.com/).
